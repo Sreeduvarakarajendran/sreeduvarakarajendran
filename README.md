@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreeduvaraka</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeduvarakarajendran" alt="sreeduvarakarajendran" /></a> </p>
 
 - 🔭 I’m currently working on [eProskills](https://www.eproskills.com/)
 
